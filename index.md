@@ -15,6 +15,8 @@ I am a junior at Lehigh University studying Finance and Supply Chain Management
 
 _**[Sentiment Analysis of Firm 10k's to Analyze Stock Return Correlation](report/report.md)**_
 
+Insert project description and summary
+
 <img src="report/output_23_1.png?raw=true"/>
 
 ---
