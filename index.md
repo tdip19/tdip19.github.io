@@ -1,8 +1,8 @@
 ## About Me
 
-What's up? hey\|you
+Hey you! Welcome to my epic website!!! rawr xd
 
-I am an awesome student at Lehigh, you should hire me!
+I am a junior at Lehigh University studying Finance and Supply Chain Management
 
 <!-- Upload your own photo and change the path -->
 
