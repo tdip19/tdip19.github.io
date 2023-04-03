@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Tim DiPalo: Midterm Project - S&P500 10k Sentiment Analysis
 
 ## Project Summary
