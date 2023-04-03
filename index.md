@@ -6,9 +6,6 @@ I am a junior at Lehigh University studying Finance and Supply Chain Management
 
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
 
 ---
 
