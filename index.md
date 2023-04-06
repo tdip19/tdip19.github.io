@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome to my epic website! Here I will display some personal information about myself and some recent projects I have worked on.
+Welcome to my website! Here I will display some personal information about myself and some recent projects I have worked on.
 
 I am a currently a junior at Lehigh University studying Finance and Supply Chain Management and an incoming Operations Intern at Wayfair.
 
