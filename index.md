@@ -51,7 +51,7 @@ I am a natural and determined leader looking for opportunities to utilize leader
 
 I am a huge sports fan, in pretty much every way. I am one of the biggest Boston sports fans you will meet, and I love playing sports like basketball to get exercise regularly. Additionally, I enjoy lifting for exercise too. I also enjoy spending time outdoors, as I love hiking in the summer and snowboarding in the winter. See below for a picture of me hiking in the Italian Dolomites this past summer.
 
-<img src="images/dIMG_1008.jpg?raw=true"/>
+<img src="images/IMG_1008.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
