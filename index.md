@@ -21,11 +21,11 @@ Insert project description and summary
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](regression/regression.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Description
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="regression/Screen Shot 2023-04-06 at 10.06.36 AM.png?raw=true"/>
 
 ---
 
