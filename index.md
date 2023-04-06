@@ -29,18 +29,6 @@ In this assignment, I explored regressions in Python on the housing_train datase
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ## Career Objectives
 
 I am a natural and determined leader looking for opportunities to utilize leadership and communication skills and explore potential career paths in business. With my wide variety of skills, I am looking to explore different opportunities in Finance and Supply Chain Management to discover which path I want to pursue after graduation. This summer, I will be interning at Wayfair as an Operations Analyst, and I am excited to learn about what the Supply Chain Management field is like in practice.
